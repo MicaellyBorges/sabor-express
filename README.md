@@ -36,7 +36,8 @@ A área de atuação da "Sabor Express" foi modelada como um grafo não-direcion
 * **Arestas:** Representam as ruas que conectam os locais.
 * **Pesos:** Associados às arestas, representando a distância ou o tempo estimado de percurso entre dois nós.
 
-Os dados do grafo (locais, conexões e pesos) foram armazenados em arquivos `.csv` (ou formato similar) na pasta `/data` para serem lidos pela aplicação.
+<img width="443" height="299" alt="image" src="https://github.com/user-attachments/assets/692acc08-4023-4730-bcb6-7ad696ca32a7" />
+
 
 ### b) Fluxo da Solução
 
